@@ -12,5 +12,5 @@ Step 2: View the page source from each area checking for comments or hidden link
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Notes<br>
-Comments are betweenn <-- and --><br>
-links are written with href tags<br>
+Comments are betweenn <-- and --> <br>
+Links are written with href tags<br>
