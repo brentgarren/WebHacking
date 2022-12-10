@@ -6,7 +6,8 @@ Step 2: View the page source from each area checking for comments or hidden link
 <br><br>
 Step 3: Check to see whether the directory where the web assets are being stored is secured or if backup files or additional assets are shown 
 <br><br>
-Step 4: All websites are built on a framework and its important to check that they are updated because if they havent we can search that framework and it version and see if any unpatched exploits exists.
+Step 4: All websites are built on a framework and its important to check that they are updated because if they havent we can search that framework and it version and see if any unpatched exploits exists.<br><br>
+Step 5: Inspect elements with the Devtools such as the Inspecter , "An example is viewing information behind a paywall by identifying the element and either changing the block - none or disabling that webelement altogether
 
 
 
