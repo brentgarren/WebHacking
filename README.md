@@ -6,6 +6,7 @@ Step 2: View the page source from each area checking for comments or hidden link
 <br>
 Step3: Check to see whether the directory where the web assets are being stored is secured or if backup files or additional assets are shown 
 <br>
+Step 3: All websites are built on a framework and its important to check that they are updated because if they havent we can search that framework and it version and see if any unpatched exploits exists.
 
 
 
