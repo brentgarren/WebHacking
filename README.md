@@ -4,3 +4,12 @@ Step 1: Explore the website listing exploring the website and noting down the in
 <br>
 Step 2: View the page source from each area checking for comments or hidden links Shortcut="Ctrl-U". Putting the URL in this form will also in most cases show you the page source "view-source:https[://]www[.]google[.]com/"
 <br>
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+Comments are betweenn <-- and -->
+Notes links are written with href tags
